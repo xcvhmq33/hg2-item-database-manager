@@ -1,0 +1,1 @@
+from hg2_item_database_manager import HG2ItemDatabaseManager
